@@ -9,7 +9,7 @@ This app recognizes digits handwritten by the player. In each game the player ha
 - [Vision](https://developer.apple.com/documentation/vision "Vision")
 - [Create ML](https://developer.apple.com/documentation/createml)
 - [Core ML](https://developer.apple.com/documentation/coreml)
-- [The MNIST Database](http://yann.lecun.com/exdb/mnist")
+- [The MNIST Database](http://yann.lecun.com/exdb/mnist)
 
 ### Screenshots
 ![](https://yanunsey.com/dev/wp-content/uploads/2023/02/math-training-large.png)
